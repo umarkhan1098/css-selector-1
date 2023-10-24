@@ -1,0 +1,33 @@
+/* *{      
+    background-color: black;
+    color: green;
+} */
+
+/* h1{
+    color: green;
+
+} */
+
+ /*.interest{
+    color: aqua;
+}*/
+
+/*#a-span{
+     color: red;
+}*/
+
+/*span >p{
+    color: aqua;
+}*/
+
+/*div p{
+    color: blue;
+}*/
+
+/* h1+p{
+    color: red;
+ }*/
+
+ h1~p{
+    color: red;
+ }
